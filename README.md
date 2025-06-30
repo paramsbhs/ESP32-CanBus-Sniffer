@@ -17,13 +17,13 @@ https://github.com/collin80/can_common
 [ESP32-WROOM-32D](https://www.aliexpress.com/item/1005006661654117.html?aff_fcid=146f90500b1d49e6b54f965571d5c2df-1748659718994-08494-_EHIpNlL&tt=CPS_NORMAL&aff_fsk=_EHIpNlL&aff_platform=influencer-program-register-campaign&sk=_EHIpNlL&aff_trace_key=146f90500b1d49e6b54f965571d5c2df-1748659718994-08494-_EHIpNlL&terminal_id=3dbcf7a1311f445da04908a0ab0ef844&afSmartRedirect=y)<br>
 [ESP32 Dev V1](https://www.amazon.co.uk/dp/B09GK74F7N?keywords=esp32+devkit+1+30+pin&geniuslink=true&linkCode=sl1&tag=valentineau05-21&linkId=2e86c6aa5622515c452b73e459ad464c&language=en_GB&ref_=as_li_ss_tl)<br>
 
-# How to use ParseSavvyCAN.py
-Place your test retrieved from `canbusdata.py` 
-Run `python rev2gvret.py .\testfilename ParsedTest`
+# How to use ParseSavvyCAN.py<br>
+Place your test retrieved from `canbusdata.py` <br>
+Run `python rev2gvret.py .\testfilename ParsedTest`<br>
 
-# How to use canbusdata.py
-Run `pip install pyserial` in the terminal
-Have your CAN Bus Sniffer plugged in to the OBD2 port
-Use baudrate 115200, once running, collect data as needed and use `Ctrl+C` to stop collecting data
+# How to use canbusdata.py<br>
+Run `pip install pyserial` in the terminal<br>
+Have your CAN Bus Sniffer plugged in to the OBD2 port<br>
+Use baudrate 115200, once running, collect data as needed and use `Ctrl+C` to stop collecting data<br>
 
 Created with the help of Mr. DIY
